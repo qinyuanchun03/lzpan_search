@@ -6,7 +6,7 @@
 这是网盘搜索导航的源码.  
 **Demo**: [https://so.lzpanx.com](https://so.lzpanx.com)
 
-## 🚀 搭建指南
+## 🚀 网盘搜索网站搭建指南
 
 ### 免费程序：使用 PanSearch
 
